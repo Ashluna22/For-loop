@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\Workspace\Ashleys-unit-2-classwork\Basic-forloop\Basic-for-loop\Basic-for-loop\bin\Debug\Basic-for-loop.exe.config
+C:\Users\Owner\Desktop\Workspace\Ashleys-unit-2-classwork\Basic-forloop\Basic-for-loop\Basic-for-loop\bin\Debug\Basic-for-loop.exe
+C:\Users\Owner\Desktop\Workspace\Ashleys-unit-2-classwork\Basic-forloop\Basic-for-loop\Basic-for-loop\bin\Debug\Basic-for-loop.pdb
+C:\Users\Owner\Desktop\Workspace\Ashleys-unit-2-classwork\Basic-forloop\Basic-for-loop\Basic-for-loop\obj\Debug\Basic-for-loop.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Workspace\Ashleys-unit-2-classwork\Basic-forloop\Basic-for-loop\Basic-for-loop\obj\Debug\Basic-for-loop.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Workspace\Ashleys-unit-2-classwork\Basic-forloop\Basic-for-loop\Basic-for-loop\obj\Debug\Basic-for-loop.exe
+C:\Users\Owner\Desktop\Workspace\Ashleys-unit-2-classwork\Basic-forloop\Basic-for-loop\Basic-for-loop\obj\Debug\Basic-for-loop.pdb
